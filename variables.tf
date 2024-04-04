@@ -1,5 +1,5 @@
 variable "loc" {
-    description = "Default Azure region"
+    description = "Default Azure region west"
     default     =   "westeurope"
 }
 
